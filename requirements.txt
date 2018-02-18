@@ -1,0 +1,3 @@
+PyChromecast==0.6.12
+click==5.1
+alexandra>=0.3.2

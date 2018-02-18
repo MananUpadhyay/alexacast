@@ -1,0 +1,14 @@
+SkipMedia skip this song
+SkipMedia skip this
+SkipMedia play next song
+PlayMedia resume playing
+PlayMedia play
+PlayMedia unpause
+PlayMedia resume
+PlayMedia continue
+PauseMedia pause media
+PauseMedia pause
+Reconnect reconnect
+Reboot reboot
+Reboot restart
+Reboot explode

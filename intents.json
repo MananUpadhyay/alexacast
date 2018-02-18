@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "SkipMedia",
+      "slots": []
+    },
+
+    {
+      "intent": "PlayMedia",
+      "slots": []
+    },
+
+    {
+      "intent": "PauseMedia",
+      "slots": []
+    },
+
+    {
+      "intent": "Reconnect",
+      "slots": []
+    },
+
+    {
+      "intent": "Reboot",
+      "slots": []
+    }
+  ]
+}
