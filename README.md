@@ -4,11 +4,14 @@ Alexa skill to control local Chromecast devices. You will need to run it on the 
 
  - Setup the Alexa skill in Amazon Developer console and enable test mode for the skill.
  - Login on Alexa enabled device (e.g. Echo Dot) with the same credentials as the Developer account.
+ - Python 3.4 is recommended. 
 
 # Running Instructions
 
  - Run the Alexa Service as above
    ```
+   $ pip install cryptography
+   $ pip install alexandra
    $ pip install -r requirements.txt
    $ python server.py --device='Your Chromecast Name'
    ```
